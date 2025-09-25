@@ -58,6 +58,6 @@ O objetivo principal é fornecer uma estrutura relacional robusta que permita:
 
   [Dados de inserção no banco de dados:](https://github.com/marcelomoura85/Desafio-Dio-Randstad-banco-de-dados-ecommerce-/blob/main/Dados%20de%20insercao%20desafio%20banco%20de%20dados%20e-commerce%20Dio-Randstad.pdf)
 
- 
+  [Modelo Diagrama EER](https://github.com/marcelomoura85/Desafio-Dio-Randstad-banco-de-dados-ecommerce-/blob/main/E-commerce.png)
  
 
